@@ -1,8 +1,8 @@
-name: bitly-url-shortener
+name: bitly-shortener
 description: A GitHub Action to automate generating shortened URLs with Bit.ly.
 branding:
   icon: link
-  color: orange
+  color: black
 inputs:
   long_url:
     required: true
